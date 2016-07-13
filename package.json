@@ -1,0 +1,30 @@
+{
+  "name": "machinepack-clickatell",
+  "version": "0.1.0",
+  "description": "Send text messages using the Clickatell api",
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "keywords": [
+    "Clickatell",
+    "sms",
+    "machines",
+    "machinepack"
+  ],
+  "author": "Renier Lotter",
+  "license": "MIT",
+  "dependencies": {
+    "machine": "^12.2.5",
+    "machinepack-http": "^2.4.0"
+  },
+  "devDependencies": {
+    "test-machinepack-mocha": "^2.1.5"
+  },
+  "machinepack": {
+    "friendlyName": "Clickatell",
+    "machineDir": "machines/",
+    "machines": [
+      "send-text-message"
+    ]
+  }
+}

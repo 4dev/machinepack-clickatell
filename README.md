@@ -3,12 +3,12 @@
   machinepack-clickatell
 </h1>
 
-### [Docs](http://node-machine.org/machinepack-http) &nbsp; [Browse other machines](http://node-machine.org/machinepacks) &nbsp;  [FAQ](http://node-machine.org/implementing/FAQ)  &nbsp;  [Newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine)
+### [Docs](http://node-machine.org/machinepack-clickatell) &nbsp; [Browse other machines](http://node-machine.org/machinepacks) &nbsp;  [FAQ](http://node-machine.org/implementing/FAQ)  &nbsp;  [Newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine)
 
 Send a text message using the Clickatell SMS API.
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-http.svg)](http://badge.fury.io/js/machinepack-http) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-http.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-http)
+## Installation &nbsp;
 
 ```sh
 $ npm install machinepack-clickatell

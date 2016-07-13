@@ -15,7 +15,6 @@
     "machines",
     "machinepack"
   ],
-  "author": "Renier Lotter",
   "license": "MIT",
   "dependencies": {
     "machine": "^12.2.5",
